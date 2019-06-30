@@ -75,3 +75,19 @@ Users can add items to their shopping carts
 Users can register/login using website custom forms, or social login libraries
 Users can update personal profiles with shipping addresses and other info
 Users can checkout with 3rd party payment gateways: Stripe. This requirement is mandatory, you must use our API to handle the payment.
+
+
+Frontend requirements
+Elegant UI
+You are welcome to use any 3rd party component library like Bootstrap, Material Design. Try to polish the UI as much as you can.
+Component rendered smoothly
+Data loaded from server side and rendered on components smoothly.
+Strong frontend framework
+We strongly recommend use of modern architectures, frameworks (React most preferred, Angular, Vue, pure JS, are okay also) to control flow, store client data...
+Performance should be fast. No timeout or long executions.
+Advanced client-side techstack
+We strongly recommend using advanced CSS/HTML/JS techniques (local storage)
+Clean code structure
+Code structure/directory makes sense and can be scaled easily
+Friendly error messages
+Display custom error messages to users
