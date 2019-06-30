@@ -91,3 +91,14 @@ Clean code structure
 Code structure/directory makes sense and can be scaled easily
 Friendly error messages
 Display custom error messages to users
+
+
+Design
+Please see the design at https://github.com/zandoan/turing-uiux/tree/master/Zeplin inside the sketch file.
+
+Feel free to follow the design as much as possible. Once you complete, please send us the code and the link to your hosted solution. Also let us know how long you spent on the challenge and why that length of time.
+
+Check out this video to get more idea about the project: https://youtu.be/o2I4R1lL5xY
+
+Question
+If you have any question or concern about our challenge. Please send an email to softwarejobs@turing.com or create an issue on the Github repository we have given. We already created a list of Frequently Asked Questions, feel free to check it out: FAQ
