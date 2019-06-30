@@ -16,6 +16,6 @@ Our customer companies have very high standards for software engineers, so pleas
 
 Before Your Start
 
-Please visit the following link when you are ready to work on the project: Virtual Stand Up
+Please visit the following link when you are ready to work on the project: Virtual Stand Up (https://turing.ly/postmatch/)
 You will need to login and set a time for a daily check-in.
 You are required to give a short report of your progress at this set time each day. Failing to do so will negatively affect your candidacy.
