@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "express": "^4.17.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -27,5 +28,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "E-commerce System ",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wael93/E-commerce.git"
+  },
+  "keywords": [
+    "Demo"
+  ],
+  "author": "Wael Bassam Achi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wael93/E-commerce/issues"
+  },
+  "homepage": "https://github.com/wael93/E-commerce#readme"
 }
